@@ -1,0 +1,38 @@
+#h1{
+    color:orange;
+    background-color:black;
+    padding: 10px;
+    width: 90px;
+    border-radius: 10px;
+
+
+}
+.a{
+    color: azure;
+    background-color:cadetblue;
+    padding: 10px;
+    width:250px;
+    border-radius: 10px;
+    border: solid black;
+            
+    }
+    .a img {   
+        vertical-align: middle;
+        background-color: cadetblue;
+    } 
+
+
+#head
+{
+    color: azure;
+}
+.porty{
+background-image: url(42.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+width: 100%;
+height: 100vh;
+}
+
+    
